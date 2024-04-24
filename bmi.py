@@ -9,5 +9,7 @@ def calculate_bmi(height, weight):
         print("You are normal weight")
     else:
         print('You are overweight')
+
+      
 calculate_bmi(weight = 60, height = 1.73)
 
